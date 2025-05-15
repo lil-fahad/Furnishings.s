@@ -1,2 +1,7 @@
 streamlit
-requests
+torch
+torchvision
+diffusers
+transformers
+accelerate
+pillow
